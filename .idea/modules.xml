@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication5.iml" filepath="$PROJECT_DIR$/MyApplication5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyApplication5-master.iml" filepath="$PROJECT_DIR$/.idea/modules/MyApplication5-master.iml" group="MyApplication5-master" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApplication5-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApplication5-master-app.iml" group="MyApplication5-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PraUTS_18.12.0562_PCS-master.iml" filepath="$PROJECT_DIR$/.idea/modules/PraUTS_18.12.0562_PCS-master.iml" group="PraUTS_18.12.0562_PCS-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PraUTS_18.12.0562_PCS-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PraUTS_18.12.0562_PCS-master-app.iml" group="PraUTS_18.12.0562_PCS-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
